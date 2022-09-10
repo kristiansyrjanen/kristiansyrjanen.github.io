@@ -8,7 +8,7 @@ tags:
   - switch
   - store
   - europe
-last_modified_at: 2022-09-10T20:42:52
+last_modified_at: 2022-09-10
 ---
 
 
