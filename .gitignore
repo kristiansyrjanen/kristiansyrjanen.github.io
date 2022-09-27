@@ -2,3 +2,9 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.idea/.name
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/kristiansyrjanen.github.io.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
