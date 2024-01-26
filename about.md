@@ -10,4 +10,6 @@ Posts will mainly consist of the following topics
 - Cyber Security
 - Sysadmin
 
+or not... Maybe plants, I don't know.
+
 [Tis but a scratch](https://www.youtube.com/watch?v=ZmInkxbvlCs)
