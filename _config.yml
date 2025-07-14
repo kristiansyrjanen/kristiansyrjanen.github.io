@@ -21,9 +21,9 @@ baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https:/iam.kristiansyrjanen.com
 author: 
   name: kristian 
-  twitter: krisuogxoxo
+  #twitter: krisuogxoxo
   picture: 
-twitter_username: krisuogxoxo
+# twitter_username: krisuogxoxo
 github_username: kristiansyrjanen
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 search: True # true, false (default)
